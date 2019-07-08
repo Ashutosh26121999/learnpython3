@@ -1,4 +1,4 @@
-
+#immutabel type
 print("\n\n\n\t\t\tImmutabel in python\n\n\n\t\t\t")
 v="Toor"
 m="city"
